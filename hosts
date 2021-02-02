@@ -1,9 +1,29 @@
 # Title: Distraction Host File
 # Author: Lee Matthew Jackson
 
-0.0.0.0 facebook.com
+# News / magazines
+
+# BBC News
 0.0.0.0 bbc.co.uk
+0.0.0.0 www.bbc.co.uk
+
+# Sky News
 0.0.0.0 news.sky.com
+
+# Social media
+
+# Instagram
 0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+
+# Twitter
 0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+
+# TikTok
 0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+
+# Facebook
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
